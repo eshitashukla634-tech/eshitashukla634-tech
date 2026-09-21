@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="./github-banner.png" alt="Eshita GitHub Banner" width="100%">
+</p>
+
 # Hi, I'm Eshita 👋
 
 🎓 Computer Science Engineering Student
