@@ -86,10 +86,12 @@ My solutions and explanations for Data Structures and Algorithms.
 ## 🤝 Connect With Me
 ## 🤝 Connect With Me
 
-<a href="https://www.linkedin.com/in/eshita-shukla-993a93367/">
-  <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" />
+## 🤝 Connect With Me
+
+<a href="https://www.linkedin.com/in/eshita-shukla-993a93367/" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 
-<a href="YOUR_LEETCODE_LINK">
-  <img src="https://img.shields.io/badge/LeetCode-Profile-orange?style=for-the-badge&logo=leetcode" />
+<a href="https://leetcode.com/u/Eshita_Shukla/" target="_blank">
+  <img src="https://img.shields.io/badge/LeetCode-Profile-orange?style=for-the-badge&logo=leetcode&logoColor=white" />
 </a>
