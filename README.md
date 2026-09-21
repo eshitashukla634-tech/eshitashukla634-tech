@@ -83,8 +83,6 @@ My solutions and explanations for Data Structures and Algorithms.
 
 ---
 
-## 🤝 Connect With Me
-## 🤝 Connect With Me
 
 ## 🤝 Connect With Me
 
@@ -94,4 +92,8 @@ My solutions and explanations for Data Structures and Algorithms.
 
 <a href="https://leetcode.com/u/Eshita_Shukla/" target="_blank">
   <img src="https://img.shields.io/badge/LeetCode-Profile-orange?style=for-the-badge&logo=leetcode&logoColor=white" />
+</a>
+
+<a href="https://www.hackerrank.com/profile/eshitashukla634" target="_blank">
+  <img src="https://img.shields.io/badge/HackerRank-Profile-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white" />
 </a>
