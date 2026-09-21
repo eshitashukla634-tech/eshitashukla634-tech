@@ -46,7 +46,7 @@ Currently focused on:
 
 📚 Currently solving DSA problems in C++ and improving my problem-solving skills.
 
-🔗 [My LeetCode Profile](YOUR_LEETCODE_LINK)
+🔗 [My LeetCode Profile] https://leetcode.com/u/Eshita_Shukla/
 
 ---
 
